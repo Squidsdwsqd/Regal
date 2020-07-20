@@ -3,7 +3,7 @@
   "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
   "repository": "https://github.com/kyb3r/modmail",
   "env": {
-    "TOKEN": {NzM0ODc1ODE4NTg4ODk3MzAw.XxYFrA.pn2KSucJXskV7bX-usA_R3uLHIY}
+    "TOKEN": {NzM0ODc1ODE4NTg4ODk3MzAwXxYFrApn2KSucJXskV7bXusA_R3uLHIY
       "description": "Your discord bot's token.",
       "required": true
     },
@@ -25,7 +25,7 @@
     },
     "LOG_URL": {
       "description": "The url of the log viewer app for viewing self-hosted logs.",
-      "required": true
+      "required": false
     }
   }
 }
